@@ -1,0 +1,10 @@
+Date:    06-09-2022
+Version: 2.5.1
+======================
+1. Update jQuery UI v1.12.1 to v1.13.2
+
+
+Date:    25-07-2021
+Version: 2.5
+======================
+1. We have updated Bootstrap v4.5.0 to Bootstrap v5.0.2
