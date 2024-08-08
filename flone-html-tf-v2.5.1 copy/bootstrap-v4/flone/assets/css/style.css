@@ -2217,7 +2217,7 @@ a.default-btn {
   background-color: #fff;
   display: block;
   left: 0;
-  padding: 40px 40px 0px 40px;
+  padding: 40px 40px 0px 80px;
   position: absolute;
   text-align: left;
   top: 100%;
@@ -2313,7 +2313,8 @@ a.default-btn {
   padding-left: 12px;
 }
 .main-menu nav ul li ul.mega-menu.mega-menu-padding {
-  padding: 40px 40px 36px 40px;
+  padding: 40px 0px 36px 40px;
+  width: 467%;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .main-menu nav ul li ul.mega-menu.mega-menu-padding {
