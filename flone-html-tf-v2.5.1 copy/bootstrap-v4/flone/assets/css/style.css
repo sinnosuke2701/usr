@@ -10143,13 +10143,14 @@ a.default-btn {
 }
 
 .footer-widget .footer-title h3 {
-  font-size: 16px;
+  font-size: 10px;
   font-weight: 500;
   color: #313131;
   margin: 0 0 16px;
   line-height: 1;
 }
 .footer-widget .footer-list ul li {
+  font-size: 13px;
   margin: 0 0 11px;
 }
 .footer-widget .footer-list ul li:last-child {
@@ -10177,7 +10178,7 @@ a.default-btn {
 }
 .footer-widget .subscribe-style .subscribe-form form input {
   background: transparent;
-  font-size: 13px;
+  font-size: 10px;
   color: #333;
   border: none;
   border-bottom: 2px solid #ebebeb;
